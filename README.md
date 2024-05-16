@@ -1,3 +1,6 @@
+## Calculadora de IMC com React
+
+Neste projeto, vamos criar uma calculadora de IMC (Índice de Massa Corporal) utilizando React. Vou guiar você passo a passo para realizar o desenvolvimento.
 
 ## Como usar a Calculadora de IMC:
 ![image](https://github.com/thmedu/BMI-calculator-using-React/assets/141462806/48ea79e4-6e6c-497a-9f8f-3fdbdd8c4959)
