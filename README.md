@@ -1,6 +1,6 @@
-Claro! Vou explicar como usar o projeto de forma simplificada:
 
 ## Como usar a Calculadora de IMC:
+![image](https://github.com/thmedu/BMI-calculator-using-React/assets/141462806/48ea79e4-6e6c-497a-9f8f-3fdbdd8c4959)
 
 1. **Clone o repositório:**
    - Clone o repositório do GitHub em sua máquina local usando o seguinte comando no terminal:
